@@ -146,7 +146,7 @@ const Delete = async(req,res) => {
 export default {
     get,
     post,
-    // put,
+    put,
     Delete
 }
 
